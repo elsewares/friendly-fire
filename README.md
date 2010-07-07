@@ -1,5 +1,4 @@
-# Friendly Fire :: A collection of social media APIs wrapped for 
-CodeIgniter.
+## Friendly Fire :: A collection of social media APIs wrapped for CodeIgniter. ##
 
 * * * * 
 
